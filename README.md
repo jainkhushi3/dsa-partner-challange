@@ -9,7 +9,7 @@ The goal of this challenge is to build a strong foundation in Data Structures an
 - Strengthening concepts like Arrays, Strings, Linked Lists, Trees, Graphs, and Dynamic Programming
 - Writing clean and optimized code
 
-As DSA is a core part of Computer Science that helps in solving complex problems efficiently :contentReference[oaicite:0]{index=0}, this challenge is helping me become more confident in coding and logical thinking.
+As DSA is a core part of Computer Science that helps in solving complex problems efficiently, this challenge is helping me become more confident in coding and logical thinking.
 
 ## 🧠 What I’m Learning
 - Problem-solving approach
