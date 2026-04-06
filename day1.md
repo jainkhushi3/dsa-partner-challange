@@ -20,7 +20,7 @@ END
 <!-- Ques3 : Multiplication Table -->
 START
     INPUT num
-    FOR i = 1 to n
+    FOR i = 1 to 10
      result = num*i
      PRINT num 'x' i '=' result
     END FOR
